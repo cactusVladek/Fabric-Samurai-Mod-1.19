@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "samuraimod:steel_block",
+    "samuraimod:steel_ore",
+    "samuraimod:deepslate_steel_ore"
+  ]
+}

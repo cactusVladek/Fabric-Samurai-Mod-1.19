@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "steel_ingot",
+  "ingredient": {
+    "item": "samuraimod:steel_ore"
+  },
+  "result": "samuraimod:steel_ingot"
+}
